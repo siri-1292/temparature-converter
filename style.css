@@ -1,0 +1,15 @@
+.container {
+    display: contents;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+input {
+    background-color: rgb(180, 212, 204);
+    width: 100px;
+}
+body{
+    background-color: antiquewhite;
+    width: 1000px;
+    height: 500px;
+}
